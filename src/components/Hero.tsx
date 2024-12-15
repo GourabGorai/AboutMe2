@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="max-w-7xl w-full space-y-8">
         <div className="text-center">
           <img
-            src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&q=80&w=200&h=200"
+            src="public/images/profile.jpg"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto mb-8 border-4 border-blue-500 shadow-xl"
           />
