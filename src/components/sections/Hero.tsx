@@ -7,7 +7,7 @@ export function Hero() {
     <section id="about" className="py-20">
       <div className="flex flex-col items-center text-center">
         <img
-          src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=150&q=80"
+          src="img/profile.jpg"
           alt="Profile"
           className="mb-8 h-32 w-32 rounded-full object-cover shadow-lg"
         />
